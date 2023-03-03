@@ -9,3 +9,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mont_4857)](https://solved.ac/profile/mont_4857)
 
 ### 📱 Contact 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wbo1026@naver.com)](mailto:wbo1026@naver.com)
